@@ -1,0 +1,14 @@
+.request-button{
+  background-color: black;
+  color: white;
+  padding: 13px 20px;
+  border: none;
+  border-radius: 6px;
+}
+
+.schedule-later-button {
+  background-color: rgb(230, 230, 230);
+  padding: 13px 20px;
+  border: none;
+  border-radius: 6px;
+}
